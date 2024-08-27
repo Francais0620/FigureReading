@@ -12,5 +12,9 @@ Collection of the figure types from the Literature
 ## For scatterplot
 [3-scatterplot.md](https://github.com/Francais0620/FigureReading/blob/main/3-scatterplot.md)
 
+## For Cumulative distribution plot
+
+[4-Cumulative_distribution_plot.md](https://github.com/Francais0620/FigureReading/blob/main/4-Cumulative_distribution_plot.md)
+
 
 
