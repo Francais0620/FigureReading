@@ -1,4 +1,4 @@
-### 1.sample
+### 1.simple
 > c, Copy numbers of each class of TEs in the ‘best match’ TE annotation set.
 
 <img width="242" alt="截屏2024-08-27 19 10 11" src="https://github.com/user-attachments/assets/1ab8b806-646f-40c8-a041-2e172c921719">
