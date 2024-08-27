@@ -25,3 +25,18 @@ Fig 1.e
 (https://www.nature.com/articles/s41594-020-0487-4)
 
 Extended Data Fig 1.e
+
+
+### 4.experiment
+> e,f, Dual-luciferase reporter assays. Relative fold changes in Nluc activity (Nluc/Fluc) were normalized to the negative Ctrl Nluc/Fluc ratio. Error bars represent mean ± s.e.m.: *P < 0.05; **P < 0.01; ***P < 0.001; NS, not significant, unpaired t-tests. Three biological replicates were examined.
+
+
+<img width="778" alt="截屏2024-08-27 19 24 15" src="https://github.com/user-attachments/assets/b8ff8820-913b-4d36-8fad-eb3dfa98d81e">
+
+(https://www.nature.com/articles/s41594-020-0487-4)
+
+Fig 4.e,f
+
+
+
+
