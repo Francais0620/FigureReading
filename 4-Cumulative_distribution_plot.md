@@ -1,5 +1,5 @@
 > The meaning of Cumulative distribution plot
-y轴代表累积概率，相同的x，如果y越大，表达值小于x的占比越大，如果先达到1，说明数据整体更小；
+> 解释：y轴代表累积概率，相同的x，如果y越大，表达值小于x的占比越大，如果先达到1，说明数据整体更小；
 
 ### 1.Gene expression patterns between the two sets
 > a, Cumulative distribution plot comparing the expression of the following gene sets in PSs: genes adjacent to enhancer-like ERVs (pink); all other NCBI RefSeq genes (black). Gene expression patterns differ significantly between the two sets: ***P < 0.001, Kolmogorov–Smirnov test.
