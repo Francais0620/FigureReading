@@ -9,3 +9,8 @@ Collection of the figure types from the Literature
 
 [2-barplot.md](https://github.com/Francais0620/FigureReading/blob/main/2-barplot.md)
 
+## For scatterplot
+[3-scatterplot.md](https://github.com/Francais0620/FigureReading/blob/main/3-scatterplot.md)
+
+
+
